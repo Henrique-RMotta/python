@@ -1,0 +1,4 @@
+solicitar número;
+declarar sucessor: número + 1;
+declarar antecessor: número -1; 
+apresentar número, antecessor e sucessor;

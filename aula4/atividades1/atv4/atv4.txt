@@ -1,0 +1,13 @@
+Solicitar o número 1;
+Solicitar o número 2;
+Solicitar o operador;
+realizar as contas se operador for:
+	se operador = 1
+	some os números
+	se operador = 2
+	subtraia os números
+	se operador = 3
+	divida os números
+	se operador = 4
+	multiplique os números
+imprima o resultado respectivo do operador selecionado;

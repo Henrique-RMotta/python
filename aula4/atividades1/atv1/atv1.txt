@@ -1,0 +1,9 @@
+Solicitar os gols do time A e time B.
+desenvolver as condições:
+	se A > B
+	time A - ganhou
+	se A < B
+	time B - ganhou
+	se A = B
+	o jogo empatou
+imprimir o resultado de acordo com a quantidade de gols de cada time;

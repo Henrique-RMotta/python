@@ -1,0 +1,7 @@
+Python
+== (igualdade)
+!= (diferente)
+< (menor que)
+<= (menor ou igual)
+> (maior que)
+>= (maior ou igual)

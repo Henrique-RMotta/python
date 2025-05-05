@@ -1,0 +1,5 @@
+Solicitar base;
+Solicitar altura;
+realizar cálculo de perímetro: base + base + altura + altura;
+realizar cálculo de área: base * altura;
+apresentar resultado de área e perímetro;

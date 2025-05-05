@@ -1,0 +1,16 @@
+solicitar a idade do nadador;
+se a idade do narrador:
+	5<= idade <= 7
+	Infantil A
+	8<= idade <= 11
+	Infantil B
+	12<= idade <= 13
+	Juvenil A
+	14<= idade <= 17
+	Juvenil B
+	idade >= 18 
+	Adulto
+Imprimir classificação do nadador
+	
+	
+	

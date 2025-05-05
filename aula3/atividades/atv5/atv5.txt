@@ -1,0 +1,5 @@
+Solicitar valor total;
+Solicitar taxa em cima do valor;
+Solicitar tempo em meses;
+realizar o cálculo da prestação;
+apresentar o valor total da prestação;

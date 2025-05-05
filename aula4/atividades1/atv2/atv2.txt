@@ -1,0 +1,4 @@
+Solicitar o preço da compra ao usuário;
+Solicitar o número de prestações;
+realizar o cálculo preço da compra/numprestações
+imprimir o resultado do cálculo

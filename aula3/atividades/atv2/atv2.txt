@@ -1,0 +1,3 @@
+solicitar caracter 1;
+solicitar caracter 2; 
+apresentar caracter 1 e caracter 2;
