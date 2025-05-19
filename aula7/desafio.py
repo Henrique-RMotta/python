@@ -11,5 +11,5 @@ for numero in range (1,11):
         print(f"QUE PENA, VOCÊ ERROU, O VALOR CORRETO É {resultadocorreto}")
         contadorerros += 1
     
-print(f"Você acertou {contadoracertos} tabuadas")
-print(f"Você errou {contadorerros} tabuadas")
+print(f"Você acertou {contadoracertos} multiplicações")
+print(f"Você errou {contadorerros} multiplicações")
