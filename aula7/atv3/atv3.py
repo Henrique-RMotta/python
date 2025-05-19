@@ -4,5 +4,5 @@ for letras in palavra:
     palavras.append(letras)
 
 palavras.reverse()
-palavra_ivert =  ''.join(palavras)
-print(palavra_ivert)
+palavra_invert =  ''.join(palavras)
+print(palavra_invert)
