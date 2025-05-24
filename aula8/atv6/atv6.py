@@ -1,9 +1,8 @@
-palavras = []
-palavra = input("Digite uma palavra:")
-i = 0 
-while i < palavra:
-    palavras.append(i)
-
-palavras.reverse()
-palavra_invert =  ''.join(palavras)
-print(palavra_invert)
+palavra = input("Digite uma palavra: ")
+i = len(palavra) - 1
+palavra_invert = []
+while i >= 0:
+    palavra_invert += palavra[i]
+    i -= 1
+res = "".join(palavra_invert)
+print(res)
